@@ -1,2 +1,2 @@
-# webscraping-challenge
-A repository for the Module 11 Challenge for the CWRU Data Analytics Boot Camp
+# Module #11 Challenge
+No outside sources were consulted during the creation of this project outside of the official documentation for a number of the technologies used in this project.
